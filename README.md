@@ -19,5 +19,5 @@ Your users should be able to:
 <h2>Links</h2>
 
 <ul>
-<li>Live site: https://gilded-froyo-db79c5.netlify.app/</li>
+<li>Live site URL: https://gilded-froyo-db79c5.netlify.app/</li>
 </ul>
