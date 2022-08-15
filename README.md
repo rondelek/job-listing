@@ -15,3 +15,9 @@ Your users should be able to:
 <li>See hover states for all interactive elements on the page</li>
 <li>Filter job listings based on the categories selected</li>
 </ul>
+
+<h2>Links</h2>
+
+<ul>
+<li>Live site: https://gilded-froyo-db79c5.netlify.app/</li>
+</ul>
